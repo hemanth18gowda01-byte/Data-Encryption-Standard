@@ -26,19 +26,19 @@ This implementation is designed for **learning and educational purposes**, espec
 
 ## How DES Works (Simplified)
 
-Plaintext
-↓
-Convert to Binary
-↓
-Split into 64-bit Blocks
-↓
-Initial Permutation
-↓
-16 Feistel Rounds
-↓
-Swap Left and Right Halves
-↓
-Final Permutation
+             Plaintext
+                 ↓
+          Convert to Binary
+                 ↓
+       Split into 64-bit Blocks
+                 ↓
+         Initial Permutation
+                 ↓
+          16 Feistel Rounds
+                 ↓
+       Swap Left and Right Halves
+                 ↓
+          Final Permutation
 ↓
 Ciphertext
 
@@ -61,6 +61,7 @@ DES-Encryption/
 ## Requirements
 
 * Python 3.x
+* Cryptographic Concepts 
 * No external libraries required
 
 ---
