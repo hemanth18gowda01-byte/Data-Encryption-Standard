@@ -39,8 +39,8 @@ This implementation is designed for **learning and educational purposes**, espec
        Swap Left and Right Halves
                  ↓
           Final Permutation
-↓
-Ciphertext
+                 ↓
+            Ciphertext
 
 ---
 
